@@ -6,4 +6,3 @@ We will be using open data published by US federal government available on Natio
 ## Strategy
 ### Goals
 ### Objectives
-
